@@ -1,0 +1,7 @@
+flask~=2.2.5
+onnxruntime-gpu
+onnxruntime
+onnx
+pillow
+torchvision==0.16.0
+requests
